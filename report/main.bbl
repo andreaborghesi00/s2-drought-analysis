@@ -1,0 +1,23 @@
+\begin{thebibliography}{1}
+
+\bibitem{gao1996ndwi}
+Bo-Cai Gao.
+\newblock Ndwi—a normalized difference water index for remote sensing of vegetation liquid water from space.
+\newblock {\em Remote sensing of environment}, 58(3):257--266, 1996.
+
+\bibitem{huang2014extensions}
+Xiaohui Huang, Yunming Ye, and Haijun Zhang.
+\newblock Extensions of kmeans-type algorithms: A new clustering framework by integrating intracluster compactness and intercluster separation.
+\newblock {\em IEEE Transactions on Neural Networks and Learning Systems}, 25:1433--1446, 2014.
+
+\bibitem{mcfeeters1996use}
+Sharlene~K McFeeters.
+\newblock The use of the normalized difference water index (ndwi) in the delineation of open water features.
+\newblock {\em International journal of remote sensing}, 17(7):1425--1432, 1996.
+
+\bibitem{wang2016fusion}
+Qunming Wang, W.~Shi, Zhongbin Li, and P.~Atkinson.
+\newblock Fusion of sentinel-2 images.
+\newblock {\em Remote Sensing of Environment}, 187:241--252, 2016.
+
+\end{thebibliography}

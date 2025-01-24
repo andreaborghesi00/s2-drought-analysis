@@ -1,0 +1,28 @@
+# 1) Ignore the entire data directory
+data/
+
+# 2) Python cache directories and compiled files
+__pycache__/
+*.py[cod]
+*.pyo
+
+# 3) LaTeX build artifacts in the "report" directory
+report/*.aux
+report/*.log
+report/*.out
+report/*.toc
+report/*.lof
+report/*.lot
+report/*.fls
+report/*.fdb_latexmk
+report/*.synctex.gz
+
+*.zip
+
+# (Optional) If you generate PDFs that you do NOT want to track:
+# report/*.pdf
+
+# 4) Misc common OS or editor files (optional):
+# .DS_Store
+# Thumbs.db
+# *~
